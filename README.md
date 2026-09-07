@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onkar Bagade</h1>
 <h3 align="center">git init on my CS journey | B.Tech CSE (AI & ML) 🐍 Currently diving into Python & C++, algorithms & machine learning basics 🛠️ Focused on writing clean code, breaking things & fixing them</h3>
 
-- 👯 I’m looking to collaborate on **DEVELOPMENT**
+- 💻 I’m looking to collaborate on **DEVELOPMENT**
 
 - 📫 How to reach me **onkarbagade004@gmail.com**
 
