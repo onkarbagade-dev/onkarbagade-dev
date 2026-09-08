@@ -1,108 +1,53 @@
 <div align="center">
 
-<img src="./profile.jpg" width="180" alt="Onkar Bagade">
+<!-- Your photo, turned into an animated particle-hologram scan (GIF, included in this repo) -->
+<img src="./hologram-photo.gif" width="420" alt="hologram portrait"/>
 
 <h1>Hi 👋, I'm Onkar Bagade</h1>
 
-<h3>git init on my CS journey 🚀</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=git+init+on+my+CS+journey;B.Tech+CSE+(AI+%26+ML);Diving+into+Python+%26+C%2B%2B%2C+algorithms+%26+ML+basics;Writing+clean+code%2C+breaking+things+%26+fixing+them" alt="typing-svg" />
 
-<p>
-<b>B.Tech CSE (AI & ML) Student</b> 🤖
-</p>
-
-<p>
-🐍 Currently diving into Python & C++<br>
-🧠 Learning algorithms & machine learning basics<br>
-🛠️ Focused on writing clean code, breaking things & fixing them
-</p>
+<a href="mailto:onkarbagade004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00f5ff?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
 
 </div>
 
----
+<br/>
 
-<h2>💻 About Me</h2>
+## 🧬 SYSTEM.INFO
 
-- 🎓 B.Tech CSE (AI & ML) Student
-- 🐍 Currently learning <b>Python</b>
-- ⚡ Learning <b>C++ & DSA</b>
-- 🤖 Exploring <b>Artificial Intelligence & Machine Learning</b>
-- 💻 Looking to collaborate on <b>Development</b>
-- 📫 How to reach me: <b>onkarbagade004@gmail.com</b>
+```
+Subject     :: Onkar Bagade
+Role        :: CS Student (B.Tech, AI & ML)
+Focus       :: Python, C++, Algorithms, ML basics
+Looking to  :: Collaborate on DEVELOPMENT
+Contact     :: onkarbagade004@gmail.com
+```
 
----
+- 💻 I'm looking to collaborate on **DEVELOPMENT**
+- 📫 How to reach me: **onkarbagade004@gmail.com**
 
-<h2>🛠️ Languages and Tools</h2>
+## ⚙️ Languages and Tools
 
 <p align="left">
-
-<a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-alt="Python" width="45" height="45">
-</a>
-
-<a href="https://isocpp.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-alt="C++" width="45" height="45">
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-alt="Git" width="45" height="45">
-</a>
-
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-alt="GitHub" width="45" height="45">
-</a>
-
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
 </p>
 
----
+## 📊 GitHub Stats
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=onkarbagade-dev&show_icons=true&theme=tokyonight&hide_border=true"
-alt="Onkar's GitHub Stats">
-
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=onkarbagade-dev&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="onkarbagade-dev" />
 </p>
-
----
-
-<h2>🔥 GitHub Streak</h2>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=onkarbagade-dev&theme=tokyonight&hide_border=true"
-alt="GitHub Streak">
-
-</p>
-
----
-
-<h2>🚀 Currently Learning</h2>
-
-<p align="center">
-
-🐍 <b>Python</b>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-⚡ <b>C++</b>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-🧩 <b>DSA</b>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-🧠 <b>Machine Learning</b>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-🤖 <b>Artificial Intelligence</b>
-
-</p>
-
----
 
 <div align="center">
-
-<h3>💡 "Code. Learn. Build. Repeat."</h3>
-
-⭐ Thanks for visiting my profile!
-
+<sub>Built with 🖤 and way too much coffee</sub>
 </div>
