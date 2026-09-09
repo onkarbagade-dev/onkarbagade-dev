@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Your photo, turned into an animated particle-hologram scan (GIF, included in this repo) -->
-<img src="./hologram-photo.gif" width="420" alt="hologram portrait"/>
+
 
 <h1>Hi 👋, I'm Onkar Bagade</h1>
 
